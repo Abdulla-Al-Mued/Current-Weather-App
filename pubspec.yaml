@@ -14,23 +14,12 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # State Management
   get: ^4.6.6
-
-  # Network
   http: ^1.1.0
-
-  # Location
   geolocator: ^10.1.0
   geocoding: ^2.1.1
-
-  # Permissions
   permission_handler: ^11.0.1
-
-  # Dependency Injection
   get_it: ^7.6.4
-
-  # Data Classes
   equatable: ^2.0.5
 
   # Either type for error handling

@@ -112,11 +112,11 @@ class HomePage extends StatelessWidget {
                         ],
                       ),
 
-                      const SizedBox(height: 60),
+
 
                       // Weather Icon
                       Image.network(
-                        'https://openweathermap.org/img/wn/${weather.iconCode}@4x.png',
+                        'https://openweathermap.org/img/wn/02n@4x.png',
                         width: 160,
                         height: 160,
                         errorBuilder: (context, error, stackTrace) {
